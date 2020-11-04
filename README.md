@@ -1,3 +1,2 @@
 # clg
 interesting
-gud days
